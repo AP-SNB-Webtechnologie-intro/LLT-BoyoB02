@@ -1,0 +1,14 @@
+html, body {
+    box-sizing: border-box;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    height: 100%;
+    width: 100%;
+  }
+
+  .Blauw{
+    color: blue;
+  }
